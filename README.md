@@ -1,4 +1,4 @@
-## Simple Signer
+# Simple Signer
 Simple Signer is a Python script that provides functionality for signing files using RSA encryption, verifying signatures, and generating RSA key pairs.
 
 # Prerequisites
