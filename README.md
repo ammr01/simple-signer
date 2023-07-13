@@ -53,7 +53,7 @@ public-key-path : Path to the public key file used for verification.<br>
 To generate an RSA key pair, use the following command:
 
 ```bash
-python signer.py -g <key-pair-id> -d <output-directory> -S <key-size>
+python3 signer.py -g <key-pair-id> -d <output-directory> -S <key-size>
 ```
 
 
